@@ -133,6 +133,7 @@
 		<module>spring-cloud-gateway-sample</module>
 		<module>spring-cloud-gateway-integration-tests</module>
 		<module>docs</module>
+		<module>spring-cloud-gateway-practice</module>
 	</modules>
 
 	<build>
