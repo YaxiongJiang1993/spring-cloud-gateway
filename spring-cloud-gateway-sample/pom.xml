@@ -58,6 +58,7 @@
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-test-support</artifactId>
+			<version>3.1.8</version>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
